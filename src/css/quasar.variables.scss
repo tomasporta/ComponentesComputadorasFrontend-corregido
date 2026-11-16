@@ -1,0 +1,17 @@
+// Paleta en grises con fondo negro suave
+// --------------------------------------------------
+// $primary se usa en botones, avatares y elementos destacados.
+// $dark es el fondo de cards/dialogos/tablas y $dark-page el fondo de la pagina.
+
+$primary   : #757575;   // gris medio (botones)
+$secondary : #9E9E9E;   // gris claro
+$accent    : #BDBDBD;   // gris mas claro
+
+$dark      : #242424;   // cards, dialogos, tablas, menus
+$dark-page : #181818;   // fondo general (negro suave)
+
+// Colores con significado (exito, error, aviso): se mantienen, apenas apagados
+$positive  : #43A047;
+$negative  : #E53935;
+$info      : #78909C;
+$warning   : #F2C037;
